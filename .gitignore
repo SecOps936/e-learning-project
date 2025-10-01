@@ -1,0 +1,12 @@
+# Ignore credentials
+db.php
+
+# Ignore uploads and cache
+uploads/
+*.log
+*.env
+
+# Ignore OS / editor files
+.DS_Store
+node_modules/
+vendor/
